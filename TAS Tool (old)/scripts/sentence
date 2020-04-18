@@ -1,0 +1,28 @@
+wait 5000
+press h
+wait 10
+press e
+wait 10
+press l
+wait 10
+release
+press l
+wait 10
+press o
+wait 10
+press space
+wait 10
+press w
+wait 10
+press o
+wait 10
+press r
+wait 10
+press l
+wait 10
+press d
+wait 10
+press space
+release
+wait 1000
+jump 1

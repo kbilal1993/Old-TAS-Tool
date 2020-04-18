@@ -1,0 +1,16 @@
+wait 5000
+press a
+wait 200
+press b
+wait 200
+press c
+wait 200
+press d
+wait 200
+press e
+wait 200
+press f
+wait 200
+press g
+wait 200
+jump 2

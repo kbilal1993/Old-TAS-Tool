@@ -1,0 +1,30 @@
+wait 5000
+press j
+wait 50
+release
+wait 10000
+press d
+wait 1800
+press j
+wait 500
+press d
+wait 4000
+press j
+wait 500
+press d
+wait 3800
+press j
+wait 100
+press d
+wait 100
+press d
+wait 1000
+press s
+wait 50
+press d
+wait 10000
+press a
+wait 1000
+release
+wait 5000
+end
