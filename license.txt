@@ -1,0 +1,3 @@
+Do what you want with the code. Consider it public domain.
+I'm not responsible if anything bad happens related to using this code.
+If you actually use this in production, I will be both impressed and disgusted
